@@ -6,10 +6,10 @@
 
 .watch-grid {
   display: flex;
-  justify-content: center; /* centers all cards */
-  gap: 40px; /* equal spacing between them */
+  justify-content: center; 
+  gap: 40px; 
   margin-top: 30px;
-  flex-wrap: wrap; /* responsive on smaller screens */
+  flex-wrap: wrap; 
 }
 
 
